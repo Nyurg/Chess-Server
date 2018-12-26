@@ -1,0 +1,16 @@
+C:\Users\James\Desktop\ChessServer\ChessDAL\bin\Debug\ChessDatabase.mdf
+C:\Users\James\Desktop\ChessServer\ChessDAL\bin\Debug\ChessDatabase_log.ldf
+C:\Users\James\Desktop\ChessServer\ChessDAL\bin\Debug\ChessDAL.dll.config
+C:\Users\James\Desktop\ChessServer\ChessDAL\bin\Debug\ChessDAL.dll
+C:\Users\James\Desktop\ChessServer\ChessDAL\bin\Debug\ChessDAL.pdb
+C:\Users\James\Desktop\ChessServer\ChessDAL\bin\Debug\Google.Protobuf.dll
+C:\Users\James\Desktop\ChessServer\ChessDAL\bin\Debug\MySql.Data.dll
+C:\Users\James\Desktop\ChessServer\ChessDAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\James\Desktop\ChessServer\ChessDAL\bin\Debug\Google.Protobuf.xml
+C:\Users\James\Desktop\ChessServer\ChessDAL\bin\Debug\MySql.Data.xml
+C:\Users\James\Desktop\ChessServer\ChessDAL\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\James\Desktop\ChessServer\ChessDAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\James\Desktop\ChessServer\ChessDAL\obj\Debug\ChessDAL.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\ChessServer\ChessDAL\obj\Debug\ChessDAL.csproj.CopyComplete
+C:\Users\James\Desktop\ChessServer\ChessDAL\obj\Debug\ChessDAL.dll
+C:\Users\James\Desktop\ChessServer\ChessDAL\obj\Debug\ChessDAL.pdb

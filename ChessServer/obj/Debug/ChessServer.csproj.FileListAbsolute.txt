@@ -1,0 +1,16 @@
+C:\Users\James\Desktop\ChessServer\ChessServer\bin\Debug\ChessDatabase.mdf
+C:\Users\James\Desktop\ChessServer\ChessServer\bin\Debug\ChessDatabase_log.ldf
+C:\Users\James\Desktop\ChessServer\ChessServer\bin\Debug\ChessServer.exe.config
+C:\Users\James\Desktop\ChessServer\ChessServer\bin\Debug\ChessServer.exe
+C:\Users\James\Desktop\ChessServer\ChessServer\bin\Debug\ChessServer.pdb
+C:\Users\James\Desktop\ChessServer\ChessServer\bin\Debug\ChessDAL.dll
+C:\Users\James\Desktop\ChessServer\ChessServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\James\Desktop\ChessServer\ChessServer\bin\Debug\ChessDAL.pdb
+C:\Users\James\Desktop\ChessServer\ChessServer\bin\Debug\ChessDAL.dll.config
+C:\Users\James\Desktop\ChessServer\ChessServer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\James\Desktop\ChessServer\ChessServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\James\Desktop\ChessServer\ChessServer\obj\Debug\ChessServer.csprojAssemblyReference.cache
+C:\Users\James\Desktop\ChessServer\ChessServer\obj\Debug\ChessServer.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\ChessServer\ChessServer\obj\Debug\ChessServer.csproj.CopyComplete
+C:\Users\James\Desktop\ChessServer\ChessServer\obj\Debug\ChessServer.exe
+C:\Users\James\Desktop\ChessServer\ChessServer\obj\Debug\ChessServer.pdb
